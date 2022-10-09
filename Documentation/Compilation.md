@@ -8,8 +8,8 @@ Please refer to [IDE Setup](IDESetupCLion.md) if you wish to use CLion to compil
 ### Step 1: Clone the repository with all Tinkertoy modules
 
 ```bash
-git clone https://github.com/0xTinkertoy/Kernel-Moisture.git
-cd Kernel-Moisture
+git clone https://github.com/0xTinkertoy/Kernel-Gateway.git
+cd Kernel-Gateway
 git submodule update --init
 ```
 

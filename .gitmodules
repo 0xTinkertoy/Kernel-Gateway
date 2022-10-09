@@ -1,0 +1,18 @@
+[submodule "Dependencies/TinkerLibrary"]
+	path = Dependencies/TinkerLibrary
+	url = https://github.com/0xTinkertoy/TinkerLibrary.git
+[submodule "Dependencies/Scheduler"]
+	path = Dependencies/Scheduler
+	url = https://github.com/0xTinkertoy/Scheduler.git
+[submodule "Dependencies/MemoryAllocator"]
+	path = Dependencies/MemoryAllocator
+	url = https://github.com/0xTinkertoy/MemoryAllocator.git
+[submodule "Dependencies/Execution"]
+	path = Dependencies/Execution
+	url = https://github.com/0xTinkertoy/Execution.git
+[submodule "Dependencies/Architecture"]
+	path = Dependencies/Architecture
+	url = https://github.com/0xTinkertoy/Architecture.git
+[submodule "Dependencies/Runtime"]
+	path = Dependencies/Runtime
+	url = https://github.com/0xTinkertoy/Runtime.git

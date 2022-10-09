@@ -25,7 +25,7 @@ Note that other systems are not tested.
 The sample code is designed for Stellaris LM3S811EVB which has a 50 MHz ARM Cortex-M3 processor, 8 KB SRAM and 64 KB Flash.
 
 - QEMU
-- [ARM FastModel](https://https://github.com/0xTinkertoy/ARM-FastModel-LM3S811EVB-Nano)
+- [ARM FastModel](https://github.com/0xTinkertoy/ARM-FastModel-LM3S811EVB-Nano)
 
 ## Compilation
 
